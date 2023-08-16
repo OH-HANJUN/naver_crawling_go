@@ -1,0 +1,10 @@
+{
+    "go.languageServerExperimentalFeatures": {
+        "diagnostics": true,
+        "documentLink": true
+    },
+    "go.liveErrors": {
+        "enabled": true,
+        "delay": 500,
+    },
+}
